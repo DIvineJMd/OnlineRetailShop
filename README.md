@@ -1,4 +1,4 @@
-# DATABASE MANAGEMENT SYSTEM (CSE 202)
+# DATABASE MANAGEMENT SYSTEM (OnlineRetailShop)
 
 ## Online Retail Store
 
